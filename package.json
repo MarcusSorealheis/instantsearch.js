@@ -95,7 +95,7 @@
     "css-loader": "0.28.10",
     "dev-novel": "0.0.6",
     "doctoc": "1.4.0",
-    "enzyme": "3.3.0",
+    "enzyme": "3.8.0",
     "enzyme-adapter-react-15": "1.2.0",
     "enzyme-to-json": "3.3.1",
     "eslint": "4.18.2",
